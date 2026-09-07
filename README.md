@@ -43,14 +43,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Martin-Castellano&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrian-Martin-Castellano&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-</p>
+<div width="100%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Martin-Castellano&theme=radical&hide_border=false" width="70%"/>
+</div>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrian-Martin-Castellano&theme=react-dark&hide_border=true&area=true" width="97%" />
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrian-Martin-Castellano&theme=radical&show_icons=true&hide_border=false&count_private=true" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrian-Martin-Castellano&theme=radical&layout=pie&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📌 Featured Repositories
