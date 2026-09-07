@@ -51,10 +51,10 @@
 <table width="100%" align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=Adrian-Martin-Castellano&theme=radical&show_icons=true&hide_border=false&count_private=true" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Martin-Castellano&theme=radical" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=Adrian-Martin-Castellano&theme=radical&layout=pie&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Martin-Castellano&theme=radical" width="100%"/>
     </td>
   </tr>
 </table>
