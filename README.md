@@ -8,18 +8,36 @@
 ### 🛠️ Technical Stack
 
 #### 💻 Programming Languages
-> <img src="https://skillicons.dev/icons?i=cpp" height="20" align="middle"/> **C++** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=py" height="20" align="middle"/> **Python** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="20" align="middle"/> **JavaScript** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" height="20" align="middle"/> **TypeScript** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ruby" height="20" align="middle"/> **Ruby**  
-> <img src="https://skillicons.dev/icons?i=postgres" height="20" align="middle"/> **SQL** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=r" height="20" align="middle"/> **R** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" height="20" align="middle"/> **HTML5** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="20" align="middle"/> **CSS3**
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript)
+![Ruby](https://img.shields.io/badge/Ruby-111827?style=flat&logo=ruby)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat&logo=postgresql)
+![R](https://img.shields.io/badge/R-111827?style=flat&logo=r)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat&logo=css3)
 
 #### 🌐 Web Development & Frameworks
-> <img src="https://skillicons.dev/icons?i=nodejs" height="20" align="middle"/> **Node.js** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" height="20" align="middle"/> **Express** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" height="20" align="middle"/> **React** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="20" align="middle"/> **Tailwind**  
-> <img src="https://skillicons.dev/icons?i=bootstrap" height="20" align="middle"/> **Bootstrap** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="20" align="middle"/> **MongoDB** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vitest" height="20" align="middle"/> **Vitest**
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express)
+![React](https://img.shields.io/badge/React-111827?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb)
+![Vitest](https://img.shields.io/badge/Vitest-111827?style=flat&logo=vitest)
 
 #### 🛡️ Cybersecurity & Systems
-> <img src="https://skillicons.dev/icons?i=linux" height="20" align="middle"/> **Linux** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=bash" height="20" align="middle"/> **Bash** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=docker" height="20" align="middle"/> **Docker**
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
 
 #### 🔧 Developer Tools
-> <img src="https://skillicons.dev/icons?i=vscode" height="20" align="middle"/> **VS Code** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git" height="20" align="middle"/> **Git** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="20" align="middle"/> **GitHub** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postman" height="20" align="middle"/> **Postman** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=latex" height="20" align="middle"/> **LaTeX**
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat&logo=postman)
+![LaTeX](https://img.shields.io/badge/LaTeX-111827?style=flat&logo=latex)
 
 ---
 
