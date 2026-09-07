@@ -7,12 +7,25 @@
 
 ### 🛠️ Technical Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,js,ts,ruby,postgres,r,html,css" alt="Languages" /></a><br><sub>C++ • Python • JavaScript • TypeScript • Ruby • SQL • R • HTML5 • CSS3</sub> |
-| **Web & Frameworks** | <a href="#"><img src="https://skillicons.dev/icons?i=node,express,react,tailwind,bootstrap,mongodb,vitest" alt="Frameworks" /></a><br><sub>Node.js • Express • React • Tailwind • Bootstrap • MongoDB • Vitest</sub> |
-| **Security & System** | <a href="#"><img src="https://skillicons.dev/icons?i=linux,bash,docker" alt="Security & System" /></a><br><sub>Linux • Bash • Docker</sub> |
-| **Developer Tools** | <a href="#"><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,latex" alt="Tools" /></a><br><sub>VS Code • Git • GitHub • Postman • LaTeX</sub> |
+#### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,ruby,postgres,r,html,css" alt="Languages" />
+</p>
+
+#### 🌐 **Web Development & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=node,express,react,tailwind,bootstrap,mongodb,vitest" alt="Web Stack" />
+</p>
+
+#### 🛡️ **Cybersecurity & Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker" alt="Security" />
+</p>
+
+#### 🔧 **Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,latex" alt="Tools" />
+</p>
 
 ---
 
