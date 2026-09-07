@@ -29,10 +29,15 @@
 ![RSpec](https://img.shields.io/badge/RSpec_(TDD)-2B0302?style=for-the-badge&logo=ruby&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON_Parser-000000?style=for-the-badge&logo=json&logoColor=white)
 
-#### **Cybersecurity & Environment**
+#### **Cybersecurity, Networking & Environment**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-18639C?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EC1?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2F3841?style=for-the-badge&logo=gns3&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### **Developer Tools & Utilities**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
