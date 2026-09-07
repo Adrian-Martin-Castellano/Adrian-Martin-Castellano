@@ -7,9 +7,70 @@
 
 ### 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,ruby,postgres,r,html,css,node,express,react,tailwind,bootstrap,mongodb,vitest,linux,bash,docker,vscode,git,github,postman,latex&perline=12" alt="Skill Icons" />
-</p>
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=c%2B%2B) 
+![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript) 
+![Ruby](https://img.shields.io/badge/Ruby-111827?style=flat&logo=ruby) 
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat&logo=postgresql) 
+![R](https://img.shields.io/badge/R-111827?style=flat&logo=r)
+![Assembly](https://img.shields.io/badge/Assembly-111827?style=flat&logo=gnu-bash)
+![Prolog](https://img.shields.io/badge/Prolog-111827?style=flat&logo=swi-prolog)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat&logo=css3)
+</details>
+
+<details>
+<summary><b>🌐 Web Development & Frameworks</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=nodedotjs) 
+![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express) 
+![React](https://img.shields.io/badge/React-111827?style=flat&logo=react) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat&logo=tailwindcss) 
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=flat&logo=mongoose)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat&logo=postman)
+![RSpec](https://img.shields.io/badge/RSpec-111827?style=flat&logo=ruby)
+![Vitest](https://img.shields.io/badge/Vitest-111827?style=flat&logo=vitest)
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity & Environment</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat&logo=linux) 
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat&logo=gnu-bash) 
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker) 
+![VirtualBox](https://img.shields.io/badge/VirtualBox-111827?style=flat&logo=virtualbox)
+![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=flat&logo=wireshark)
+![Cisco](https://img.shields.io/badge/Cisco-111827?style=flat&logo=cisco)
+![GNS3](https://img.shields.io/badge/GNS3-111827?style=flat&logo=gns3)
+![Netcat](https://img.shields.io/badge/Netcat-111827?style=flat&logo=gnu-bash)
+</details>
+
+<details>
+<summary><b>🛠️ Developer Tools & Utilities</b></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat&logo=visualstudiocode) 
+![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github) 
+![Make](https://img.shields.io/badge/Make-111827?style=flat&logo=gnu) 
+![npm](https://img.shields.io/badge/npm-111827?style=flat&logo=npm) 
+![RubyGems](https://img.shields.io/badge/RubyGems-111827?style=flat&logo=rubygems)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat&logo=postman) 
+![Doxygen](https://img.shields.io/badge/Doxygen-111827?style=flat&logo=c%2B%2B)
+![LaTeX](https://img.shields.io/badge/LaTeX-111827?style=flat&logo=latex)
+![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown)
+![Jira](https://img.shields.io/badge/Jira-111827?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-111827?style=flat&logo=trello)
+</details>
 
 ---
 
