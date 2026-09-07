@@ -44,8 +44,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alu0101547619&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101547619&layout=donut&theme=radical&hide_border=true&hide=html,css,shell" alt="Most Used Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Martin-Castellano&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Martin-Castellano&layout=donut&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Martin-Castellano&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adrian-Martin-Castellano&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3" width="48%" />
 </p>
 
 ---
