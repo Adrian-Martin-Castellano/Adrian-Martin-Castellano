@@ -57,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📌 Featured Repositories
@@ -119,6 +120,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📫 Contact
