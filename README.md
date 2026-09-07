@@ -7,12 +7,19 @@
 
 ### 🛠️ Technical Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp" height="20" align="middle"/> **C++** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=py" height="20" align="middle"/> **Python** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=js" height="20" align="middle"/> **JavaScript** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=ts" height="20" align="middle"/> **TypeScript** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=ruby" height="20" align="middle"/> **Ruby** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=postgres" height="20" align="middle"/> **SQL** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=r" height="20" align="middle"/> **R** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=html" height="20" align="middle"/> **HTML5** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=css" height="20" align="middle"/> **CSS3** |
-| **Web & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs" height="20" align="middle"/> **Node.js** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=express" height="20" align="middle"/> **Express** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=react" height="20" align="middle"/> **React** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="20" align="middle"/> **Tailwind** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" height="20" align="middle"/> **Bootstrap** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="20" align="middle"/> **MongoDB** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=vitest" height="20" align="middle"/> **Vitest** |
-| **Security & System** | <img src="https://skillicons.dev/icons?i=linux" height="20" align="middle"/> **Linux** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=bash" height="20" align="middle"/> **Bash** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=docker" height="20" align="middle"/> **Docker** |
-| **Developer Tools** | <img src="https://skillicons.dev/icons?i=vscode" height="20" align="middle"/> **VS Code** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=git" height="20" align="middle"/> **Git** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=github" height="20" align="middle"/> **GitHub** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=postman" height="20" align="middle"/> **Postman** &nbsp;•&nbsp; <img src="https://skillicons.dev/icons?i=latex" height="20" align="middle"/> **LaTeX** |
+#### 💻 Programming Languages
+> <img src="https://skillicons.dev/icons?i=cpp" height="20" align="middle"/> **C++** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=py" height="20" align="middle"/> **Python** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="20" align="middle"/> **JavaScript** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" height="20" align="middle"/> **TypeScript** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ruby" height="20" align="middle"/> **Ruby**  
+> <img src="https://skillicons.dev/icons?i=postgres" height="20" align="middle"/> **SQL** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=r" height="20" align="middle"/> **R** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" height="20" align="middle"/> **HTML5** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="20" align="middle"/> **CSS3**
+
+#### 🌐 Web Development & Frameworks
+> <img src="https://skillicons.dev/icons?i=nodejs" height="20" align="middle"/> **Node.js** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" height="20" align="middle"/> **Express** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" height="20" align="middle"/> **React** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="20" align="middle"/> **Tailwind**  
+> <img src="https://skillicons.dev/icons?i=bootstrap" height="20" align="middle"/> **Bootstrap** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="20" align="middle"/> **MongoDB** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vitest" height="20" align="middle"/> **Vitest**
+
+#### 🛡️ Cybersecurity & Systems
+> <img src="https://skillicons.dev/icons?i=linux" height="20" align="middle"/> **Linux** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=bash" height="20" align="middle"/> **Bash** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=docker" height="20" align="middle"/> **Docker**
+
+#### 🔧 Developer Tools
+> <img src="https://skillicons.dev/icons?i=vscode" height="20" align="middle"/> **VS Code** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git" height="20" align="middle"/> **Git** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="20" align="middle"/> **GitHub** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postman" height="20" align="middle"/> **Postman** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=latex" height="20" align="middle"/> **LaTeX**
 
 ---
 
