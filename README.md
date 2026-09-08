@@ -102,7 +102,7 @@
       </p>
       <p>Custom modern web platform showcasing interior design projects, galleries, and client showcases with responsive UI architecture.</p>
       <p align="center">
-        <a href="https://github.com/Adrian-Martin-Castellano/Portfolio-Interiorismo">
+        <a href="https://github.com/Adrian-Martin-Castellano/portfolio-interiorismo">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
