@@ -44,16 +44,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Martin-Castellano&theme=gold&hide_border=false" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Martin-Castellano&theme=gruvbox&hide_border=false" width="60%"/>
 </p>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" valign="middle" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Martin-Castellano&theme=amber" height="150px"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Martin-Castellano&theme=gruvbox" height="150px"/>
     </td>
     <td align="center" valign="middle" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Martin-Castellano&theme=amber" height="150px"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Martin-Castellano&theme=gruvbox" height="150px"/>
     </td>
   </tr>
 </table>
