@@ -65,27 +65,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Recommender Systems</h3>
+      <h3 align="center">🎓 Trabajo Fin de Grado - TFG</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-Collaborative_&_Content--Based-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=flat-square" />
+        <img src="https://img.shields.io/badge/Degree-Computer_Engineering-0078D4?style=flat-square" />
       </p>
-      <p>C++ suite implementing Collaborative Filtering (Pearson, Cosine, Euclidean metrics) and Content-Based models with Natural Language Processing (NLP) & TF-IDF.</p>
+      <p>Bachelor's Thesis for Computer Engineering at ULL. Core project focusing on advanced software engineering principles, system design, and implementation.</p>
       <p align="center">
-        <a href="https://github.com/alu0101547619/Recommender-Systems">
+        <a href="https://github.com/Adrian-Martin-Castellano/Trabajo-Fin-de-Grado---TFG">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💎 Lenguajes y Paradigmas</h3>
+      <h3 align="center">🌐 Portfolio</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Ruby-3.x-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-        <img src="https://img.shields.io/badge/Testing-RSpec-C21325?style=flat-square&logo=rspec&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p>Collection of Ruby projects exploring Object-Oriented Programming, Metaprogramming, Domain-Specific Languages (DSLs), and Test-Driven Development (TDD).</p>
+      <p>Personal developer portfolio highlighting web engineering projects, technical skills, and interactive UI components. Deployed on Vercel.</p>
       <p align="center">
-        <a href="https://github.com/alu0101547619/LPP">
+        <a href="https://github.com/Adrian-Martin-Castellano/Portfolio">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -93,14 +94,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Knowledge Management</h3>
+      <h3 align="center">🏠 Portfolio Interiorismo</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Systems-Engineering-0078D4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docs-KMO-4A154B?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p>Organizational knowledge engineering, system architecture design, and comprehensive technical documentation for enterprise workflows.</p>
+      <p>Custom modern web platform showcasing interior design projects, galleries, and client showcases with responsive UI architecture.</p>
       <p align="center">
-        <a href="https://github.com/alu0101547619/KMO">
+        <a href="https://github.com/Adrian-Martin-Castellano/Portfolio-Interiorismo">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -110,7 +112,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github" />
       </p>
-      <p>Explore my complete list of public repositories, university coursework, and ongoing open-source contributions.</p>
+      <p>Explore my complete list of public repositories, university coursework, and open-source software contributions.</p>
       <br>
       <p align="center">
         <a href="https://github.com/Adrian-Martin-Castellano?tab=repositories">
