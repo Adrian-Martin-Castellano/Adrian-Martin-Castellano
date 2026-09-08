@@ -86,7 +86,7 @@
       </p>
       <p>Personal developer portfolio highlighting web engineering projects, technical skills, and interactive UI components. Deployed on Vercel.</p>
       <p align="center">
-        <a href="https://github.com/Adrian-Martin-Castellano/Portfolio">
+        <a href="https://github.com/Adrian-Martin-Castellano/mi-portfolio ">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
